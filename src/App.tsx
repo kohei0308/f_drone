@@ -420,7 +420,7 @@ function App() {
               },
               {
                 title: '導入しやすい価格設定',
-                description: '1,200円から受注可能です。圃場面積や散布内容により異なりますので、詳細はお気軽にご相談ください。'
+                description: '1,300円から受注可能です。圃場面積や散布内容により異なりますので、詳細はお気軽にご相談ください。'
               },
               {
                 title: '短時間で広範囲を均一散布',
@@ -445,6 +445,16 @@ function App() {
               {
                 title: '複数拠点による広域対応',
                 description: 'さいたま本社、熊谷営業所、千葉営業所の3拠点体制により、幅広いエリアに迅速に対応。繁忙期や急なご相談にも柔軟にお応えできる体制を整えています。'
+              },
+              {
+                title: '信頼の証',
+                description: (
+                  <div className="space-y-2">
+                    <p>• 一等無人航空機操縦士（国家資格）</p>
+                    <p>• 赤外線診断士</p>
+                    <p>• DJI AGRAS 認定オペレーター</p>
+                  </div>
+                )
               }
             ].map((item, index) => (
               <div key={index} className="bg-gray-50 rounded-xl p-6 hover:shadow-lg transition-shadow">
