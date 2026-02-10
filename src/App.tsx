@@ -286,7 +286,7 @@ function App() {
                 <g>
                   <text
                     x="200"
-                    y="45"
+                    y="55"
                     textAnchor="middle"
                     fill="#1f2937"
                     style={{ fontSize: '13px', fontWeight: '600' }}
@@ -295,7 +295,7 @@ function App() {
                   </text>
                   <text
                     x="200"
-                    y="61"
+                    y="71"
                     textAnchor="middle"
                     fill="#1f2937"
                     style={{ fontSize: '13px', fontWeight: '600' }}
@@ -312,7 +312,7 @@ function App() {
                     fill="#1f2937"
                     style={{ fontSize: '13px', fontWeight: '600' }}
                   >
-                    早さが
+                    速さが
                   </text>
                   <text
                     x="320"
@@ -337,7 +337,7 @@ function App() {
                 <g>
                   <text
                     x="200"
-                    y="355"
+                    y="345"
                     textAnchor="middle"
                     fill="#1f2937"
                     style={{ fontSize: '13px', fontWeight: '600' }}
@@ -346,7 +346,7 @@ function App() {
                   </text>
                   <text
                     x="200"
-                    y="371"
+                    y="361"
                     textAnchor="middle"
                     fill="#1f2937"
                     style={{ fontSize: '13px', fontWeight: '600' }}
