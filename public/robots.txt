@@ -1,0 +1,7 @@
+---
+
+## ② public/robots.txt（新規ファイル作成）
+```
+User-agent: *
+Allow: /
+Sitemap: https://fujikura-drone.com/sitemap.xml
