@@ -82,9 +82,9 @@ function App() {
       >
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="container mx-auto max-w-2xl text-center relative z-10 px-6 py-32">
-          <p style={{fontSize: '13px', letterSpacing: '0.2em', color: 'rgba(255,255,255,0.7)', marginBottom: '0.5rem', textAlign: 'center'}}>Fujikura Drone Inc.</p>
           <h2 className="text-base sm:text-lg md:text-xl leading-relaxed sm:leading-loose md:leading-loose font-normal text-white mb-10">
-            絶対王者の実力
+            効率を追うのは、あなたの時間を創るため、<br />
+            あなたの想いを届けるため。
           </h2>
           <p className="text-xs sm:text-sm text-white/80 leading-loose sm:leading-loose max-w-lg mx-auto">
             培った技術はお客様との約束を果たすため<br />
