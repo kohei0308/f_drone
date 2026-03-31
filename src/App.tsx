@@ -77,7 +77,6 @@ function App() {
         className="relative bg-cover bg-center min-h-screen flex items-center justify-center"
         style={{
           backgroundImage: 'url("/img_4083.jpeg")',
-          backgroundAttachment: 'fixed',
         }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
