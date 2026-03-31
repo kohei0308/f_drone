@@ -81,12 +81,19 @@ function App() {
         }}
       >
         <div className="absolute inset-0 bg-black/40"></div>
-        <div className="container mx-auto max-w-2xl text-center relative z-10 px-6 py-32">
-          <h2 className="text-base sm:text-lg md:text-xl leading-relaxed sm:leading-loose md:leading-loose font-normal text-white mb-10">
+        <div className="container mx-auto max-w-2xl text-center relative z-10 px-6 py-32" style={{fontFamily: "'Noto Serif JP', serif"}}>
+          <p style={{fontSize: '11px', letterSpacing: '0.35em', color: 'rgba(255,255,255,0.55)', marginBottom: '1.5rem', fontWeight: 300}}>
+            Fujikura Drone Inc.
+          </p>
+          <h2 style={{fontSize: '42px', fontWeight: 600, color: 'white', marginBottom: '1.2rem', letterSpacing: '0.25em', fontFamily: "'Noto Serif JP', serif"}}>
+            絶対王者の実力
+          </h2>
+          <div style={{width: '60px', height: '1px', background: 'rgba(255,255,255,0.4)', margin: '0 auto 1.5rem'}}></div>
+          <p style={{fontSize: '13px', color: 'rgba(255,255,255,0.8)', lineHeight: 2.2, letterSpacing: '0.15em', fontWeight: 300, marginBottom: '1.2rem'}}>
             効率を追うのは、あなたの時間を創るため、<br />
             あなたの想いを届けるため。
-          </h2>
-          <p className="text-xs sm:text-sm text-white/80 leading-loose sm:leading-loose max-w-lg mx-auto">
+          </p>
+          <p style={{fontSize: '12px', color: 'rgba(255,255,255,0.6)', lineHeight: 2.2, letterSpacing: '0.1em', fontWeight: 300}}>
             培った技術はお客様との約束を果たすため<br />
             それをただの「効率」では終わらせない。<br />
             私たちが目指すのは農家様が大切にしたいものに<br />
